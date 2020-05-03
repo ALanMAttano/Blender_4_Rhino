@@ -13,30 +13,26 @@ Free Licens: https://github.com/ALanMAttano/Blender_4_Rhino/blob/master/LICENSE
 
 
 
+```
+Version 0.7
+```
+
 
 ### Quick Intro
 
 BLENDER
 * After a new Blender installetion update
-* Este script tiene que estar en algun lugar en mi pc
-* Open it with a txt editor and 
-* make a modification adding the correct path to your 3D mesh.obj file
-* Abrir Blender user preferences
-* ir a Addons y apretar el boton Install
-* Navegar hast el archivo e Seleccion Install Addon
-* Luego activarlo siempre en Blender Preference
-* Y eventtualmente borrar versiones anteriores
+* Download Blender plug-in .py file and place it somewhere in your PC
+* Open it with text editor
+* Make a modification to the path pointing to your 3D mesh.obj file: `DoNotMove/...` folder
+* Open Blender user preferences
+* Goto Addons and press Install
+* Select the Blender plug-in .py file and select Install Addon
+* In Blender Preference enable the plug-in
+* Eventually, delete older versions
 * Restart if nesesary
-* Under View3D, goto Add > Mesh > New Rhino Object
+* Under View3D, goto Add > Mesh > New Rhino Object, will load the mesh file
 
-
-* folder `Assets/...` folder
-* download `WebBrowser` and install it into the project
-* Video: https://www.youtube.com/???
-
-```
-Version 0.7
-```
 
 
 -----------------------
