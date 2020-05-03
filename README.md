@@ -7,10 +7,15 @@ Version 0.7
 ```
 
 
+
+
 ### FULL DESCRITION
 
 **"A Blender 4 Rhino" in short is a mesh Blender for Rhino (bridge).
 Let you export form Rhinoceros 3D with one (custom) botton and import that mesh quicklly inside Blender (using this plugin).**
+
+
+
 
 ### FREE LICENSE
 
@@ -19,6 +24,8 @@ Let you export form Rhinoceros 3D with one (custom) botton and import that mesh 
 SOFTWARE WITHOUT ANY WARRANTY. 
 INSPECT AND TEST IT RESPONSIBLY BEFORE USE.
 Free Licens: https://github.com/ALanMAttano/Blender_4_Rhino/blob/master/LICENSE
+
+
 
 
 ### Quick Intro
@@ -50,4 +57,4 @@ Blender Python Scripting Video Tutorials:
 * https://youtu.be/uahfuypQQ04
 
 
-2015 Alan Mattanó Argentina and Italy.
+2020 Alan Mattanó Argentina and Italy.
