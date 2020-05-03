@@ -7,16 +7,18 @@ Version 0.7
 ```
 
 
-### DESCRIPTION
+### FULL DESCRITION
 
 **"A Blender 4 Rhino" in short is a mesh Blender for Rhino (bridge).
 Let you export form Rhinoceros 3D with one (custom) botton and import that mesh quicklly inside Blender (using this plugin).**
 
+### FREE LICENSE
 
-### LICENSE
+¡Do whatever you want with my software!
+
+SOFTWARE WITHOUT ANY WARRANTY. 
+INSPECT AND TEST IT RESPONSIBLY BEFORE USE.
 Free Licens: https://github.com/ALanMAttano/Blender_4_Rhino/blob/master/LICENSE
-
-
 
 
 ### Quick Intro
@@ -37,34 +39,15 @@ BLENDER
 
 
 -----------------------
-FULL DESCRITION
-
-
-
-
-
-Open it with a txt editor and 
-make a modification adding the correct path to your 3D mesh.obj file
-Abrir Blender user preferences
-ir a Addons y apretar el boton Install
-Navegar hast el archivo e Seleccion Install Addon
-Luego activarlo siempre en Blender Preference
-Y eventtualmente borrar versiones anteriores
-Restart if nesesary
-Under View3D, goto Add > Mesh > New Rhino Object
-
-
-
-
-
-
 
 
 
 ### Links
-Web Page: http://mattano.com/Blender_4_Rhino/
+Web Page: https://discourse.mcneel.com/t/rhino-to-blender-mesh-bridge-import-and-export/94448
 
-Screenshot: http://mattano.com/Blender_4_Rhino/pix/solfar_screenshoot.png
+Blender Python Scripting Video Tutorials: 
+* https://youtu.be/pim5YIfWv-M
+* https://youtu.be/uahfuypQQ04
 
 
 2015 Alan Mattanó Argentina and Italy.
