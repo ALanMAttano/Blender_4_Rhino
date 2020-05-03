@@ -2,6 +2,11 @@
 by SoaringStarsLab
 
 
+```
+Version 0.7
+```
+
+
 ### DESCRIPTION
 
 **"A Blender 4 Rhino" in short is a mesh Blender for Rhino (bridge).
@@ -12,10 +17,6 @@ Let you export form Rhinoceros 3D with one (custom) botton and import that mesh 
 Free Licens: https://github.com/ALanMAttano/Blender_4_Rhino/blob/master/LICENSE
 
 
-
-```
-Version 0.7
-```
 
 
 ### Quick Intro
