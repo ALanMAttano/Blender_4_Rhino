@@ -67,7 +67,7 @@ HOW TO USE IT
 * Inside Rhino, delete the file
 * Rhight click the custom Blender button bridge
 
-Note you can automate delete step by adding !Delete on top of the custom button script
+Note you can automate delete step by adding !Delete command on top of the custom right button script
 
 
 
@@ -78,7 +78,7 @@ Note you can automate delete step by adding !Delete on top of the custom button 
 
 
 ### Links
-Web Page: https://discourse.mcneel.com/t/rhino-to-blender-mesh-bridge-import-and-export/94448
+FORUM: https://discourse.mcneel.com/t/rhino-to-blender-mesh-bridge-import-and-export/94448
 
 Blender Python Scripting Video Tutorials: 
 * https://youtu.be/pim5YIfWv-M
