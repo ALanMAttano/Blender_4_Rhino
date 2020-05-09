@@ -45,16 +45,14 @@ BLENDER SETUP
 
 RHINO SETUP
 * Add a new custom button
-Left button command
-! -_Export _GeometryOnly=_Yes _SaveTextures=_No _SaveNotes=_No _SaveSmall=_Yes
-"X:\DoNotMove\mesh.obj"
-VertexWelding=Unmodified YUp=Yes enter enter
-
-Right Button Command
-! -_Import
-"X:\DoNotMove\mesh.obj"
-MapYtoZ=Yes
-enter
+* Open the file "A Blender 4 Rhino.txt"
+* Copy the left and right command content of the txt 
+* Inside the Button Editor past both command scripts to left and right
+* In Appearance select Both image and text
+* Text: Blender
+* Edit place the Blender icon image and press OK to save the image.
+* Press OK to save and close the Buutton Editor.
+* Close Rhino to Save the UI botton layout. If you do not close Rhino you will loose the button.
 
 
 HOW TO USE IT
