@@ -30,12 +30,12 @@ Free Licens: https://github.com/ALanMAttano/Blender_4_Rhino/blob/master/LICENSE
 
 BLENDER SETUP
 * After a new Blender installation update
-* Download Blender plug-in .py file and place it somewhere in your PC
+* Download Blender plug-in "A Blender 4 Rhino.py" file and place it somewhere in your PC
 * Open it with text editor
 * Make a modification to the path pointing to your 3D mesh.obj file: `DoNotMove/...` folder
 * Open Blender user preferences
 * Go to Addons and press Install
-* Select the Blender plug-in .py file and select Install Addon
+* Select the Blender plug-in "A Blender 4 Rhino.py" file and select Install Addon
 * In Blender Preference enable the plug-in
 * Eventually, delete older versions
 * Restart if nesesary
