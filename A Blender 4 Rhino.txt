@@ -1,0 +1,15 @@
+Left mouse button Command: 
+Tooltip: Export OBJ to Blender
+
+! -_Export _GeometryOnly=_Yes _SaveTextures=_No _SaveNotes=_No _SaveSmall=_Yes
+"X:\DoNotMove\mesh.obj"
+VertexWelding=Unmodified YUp=Yes enter enter
+
+
+Right mouse button Command
+Tooltip: Import OBJ from Blender
+
+! -_Import
+"X:\DoNotMove\mesh.obj"
+MapYtoZ=Yes
+enter
