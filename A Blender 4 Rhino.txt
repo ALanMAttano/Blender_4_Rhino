@@ -7,13 +7,13 @@
   Tooltip:   Export OBJ to Blender "A Blender 4 Rhino"
 
 ! -_Export _GeometryOnly=_Yes _SaveTextures=_No _SaveNotes=_No _SaveSmall=_Yes
-"X:\DoNotMove\mesh.obj"
+"X:\DoNotMove\Rhino-Blender-mesh.obj"
 VertexWelding=Unmodified YUp=Yes enter enter
 
 --Right mouse button Command ----------------------------------------------------------------
   Tooltip:   Import OBJ from Blender "A Blender 4 Rhino". Remember to delete your mesh before importing and set active the correct layer
 
 ! -_Import
-"X:\DoNotMove\mesh.obj"
+"X:\DoNotMove\Rhino-Blender-mesh.obj"
 MapYtoZ=Yes
 enter
