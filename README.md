@@ -43,6 +43,7 @@ BLENDER SETUP
 * In the same location there is an export to save the mesh into the same location
 
 
+
 RHINO SETUP
 * Add a new custom button
 * Open the file "A Blender 4 Rhino.txt"
@@ -55,8 +56,9 @@ RHINO SETUP
 * Close Rhino to Save the UI botton layout. If you do not close Rhino you will loose the button.
 
 
+
 HOW TO USE IT
-* Select the mesh
+* Select the mesh that you whant to edit in Blender.
 * Left click on this custom Blender button ("A Blender 4 Rhino")
 * Open Blender
 * Under View3D, goto Add > Mesh > New Rhino Object, will load the mesh file
