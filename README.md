@@ -64,9 +64,8 @@ HOW TO USE IT
 * In Rhino, select the mesh that you want to pass to or edit on Blender.
 * To export, Left-click on the custom Blender button bridge ("A Blender 4 Rhino")
 * Open Blender and under View3D, select Add > Mesh > New Rhino Object: it will load the mesh file
-* In Blender, after editing the mesh
-* To export goto Add > Mesh > Save Rhino Object, to export the file back
-* Inside Rhino, to prevent dupications, delete the old mesh (read note)
+* In Blender, after editing the mesh, to export goto Add > Mesh > Save Rhino Object
+* Inside Rhino, to prevent duplications, delete the old mesh (read note)
 * And to import the new mesh, Right-click the custom Blender button bridge
 
 Note you can automate the delete step by adding a `!Delete` command on top of the custom Right-click button script
