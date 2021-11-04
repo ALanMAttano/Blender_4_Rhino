@@ -13,7 +13,7 @@ Version 0.7
 
 
 
-### FULL DESCRITION
+### FULL DESCRIPTION
 
 **"A Blender 4 Rhino" is a mesh Blender bridge for Rhino. Let you export the selected mesh from Rhinoceros 3D using a (custom) button. Import that mesh quickly inside Blender (using this plugin script). The python file for Blender let you import and export using one button. In Rhino, pressing right-click on this custom button will import back the Blender mesh.**
 
