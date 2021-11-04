@@ -66,10 +66,10 @@ HOW TO USE IT
 * Open Blender and under View3D, select Add > Mesh > New Rhino Object: it will load the mesh file
 * In Blender, after editing the mesh
 * To export goto Add > Mesh > Save Rhino Object, to export the file back
-* Inside Rhino, delete the file
-* Right-click the custom Blender button bridge
+* Inside Rhino, to prevent dupications, delete the old mesh (read note)
+* And to import the new mesh, Right-click the custom Blender button bridge
 
-Note you can automate the delete step by adding a `!Delete` command on top of the custom right button script
+Note you can automate the delete step by adding a `!Delete` command on top of the custom Right-click button script
 
 
 
