@@ -70,7 +70,6 @@ HOW TO USE IT
 * Inside Rhino, delete the file
 * Right-click the custom Blender button bridge
 
-Note you can automate delete step by adding !Delete command on top of the custom right button script
 Note you can automate the delete step by adding a `!Delete` command on top of the custom right button script
 
 
