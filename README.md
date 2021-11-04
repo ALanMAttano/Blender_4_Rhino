@@ -61,11 +61,10 @@ RHINO SETUP
 
 
 HOW TO USE IT
-* Select the mesh that you want to edit in Blender.
-* Left-click on this custom Blender button ("A Blender 4 Rhino")
-* Open Blender
-* Under View3D, goto Add > Mesh > New Rhino Object: will load the mesh file
-* After editing the mesh
+* In Rhino, select the mesh that you want to pass to or edit on Blender.
+* To export, Left-click on the custom Blender button bridge ("A Blender 4 Rhino")
+* Open Blender and under View3D, select Add > Mesh > New Rhino Object: it will load the mesh file
+* In Blender, after editing the mesh
 * To export goto Add > Mesh > Save Rhino Object, to export the file back
 * Inside Rhino, delete the file
 * Right-click the custom Blender button bridge
