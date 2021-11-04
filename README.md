@@ -93,5 +93,7 @@ Supported funding platforms:
 * PayPal: [paypal.me/SoaringClouds](http://paypal.me/SoaringClouds)
 * BTC: https://www.blockchain.com/btc/address/3QSTuvAqTsYEz39A8SUMQQiu2oNgBZLUbU
 * ETH: https://www.blockchain.com/eth/address/0x4110eceDEacf6304B53728ffF600CEE4B229cf3f
+* [GOGO GURU](https://assetstore.unity.com/packages/3d/vehicles/land/gogo-allroad-tire-r16-157878) is not part of Blender4Rhino
 
-2020 Alan Mattanó.
+
+2021 Alan Mattanó SoaringStarsLab
